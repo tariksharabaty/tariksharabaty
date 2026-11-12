@@ -1,7 +1,7 @@
 <p align="center">
   <img src=".github/assets/tarek.png" width="120" alt="Tarek Sharabaty">
   &nbsp;&nbsp;&nbsp;<img src=".github/assets/divider.svg" height="120" alt="|">&nbsp;&nbsp;&nbsp;
-  <a href="https://oidioom.com"><img src=".github/assets/oidioom-circle.svg" width="120" alt="Oidioom"></a>
+  <a href="https://oidioom.com"><img src=".github/assets/oidioom-logo.svg" width="120" alt="Oidioom"></a>
 </p>
 
 <h1 align="center">Tarek Sharabaty</h1>
@@ -9,9 +9,9 @@
 <p align="center">Founder of <b>Oidioom</b> · Computer Engineering @ İstanbul Kent University</p>
 
 <p align="center">
-  <a href="https://oidioom.com"><img src=".github/assets/oidioom-card.svg" height="40" alt="Oidioom"></a>
+  <a href="https://oidioom.com"><img src=".github/assets/oidioom-card-v2.svg" height="40" alt="Oidioom"></a>
   <a href="https://www.linkedin.com/in/tariksharabaty"><img src=".github/assets/linkedin-card.svg" height="40" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/tariksby"><img src=".github/assets/instagram-card.svg" height="40" alt="Instagram"></a>
+  <a href="https://www.instagram.com/tariksby"><img src=".github/assets/instagram-card-v2.svg" height="40" alt="Instagram"></a>
 </p>
 
 ---
