@@ -10,8 +10,8 @@
 
 <p align="center">
   <a href="https://oidioom.com"><img src=".github/assets/oidioom-card.svg" height="40" alt="Oidioom"></a>
-  <a href="https://www.linkedin.com/in/tariksharabaty"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" height="40" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/tariksby"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/tariksharabaty"><img src=".github/assets/linkedin-card.svg" height="40" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/tariksby"><img src=".github/assets/instagram-card.svg" height="40" alt="Instagram"></a>
 </p>
 
 ---
