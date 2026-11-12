@@ -16,13 +16,13 @@
 
 ---
 
-### ⚙️ Gear
+<h3><img src=".github/assets/gear-icon.svg" width="28" align="absmiddle" alt="Gear logo">&nbsp; Gear</h3>
 
 **Next-gen game launcher** — Steam, Epic Games, Xbox, GOG, EA, Ubisoft and more in one fast, local Windows app.<br>
 **Yeni nesil oyun başlatıcı** — tüm PC oyun mağazalarınız tek, hızlı ve yerel bir uygulamada.
 
 <p align="center">
-  <a href="https://github.com/tariksharabaty/gear"><img src=".github/assets/gear.png" width="760" alt="Gear"></a>
+  <a href="https://github.com/tariksharabaty/gear"><img src=".github/assets/gear.png" width="760" alt="Gear download page"></a>
 </p>
 
 <p align="center">
